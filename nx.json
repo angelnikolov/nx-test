@@ -29,6 +29,12 @@
     "test-e2e": {
       "tags": [],
       "implicitDependencies": ["test"]
+    },
+    "shared": {
+      "tags": []
+    },
+    "design-system": {
+      "tags": []
     }
   }
 }
